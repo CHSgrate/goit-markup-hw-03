@@ -1,0 +1,207 @@
+.body {
+font-family: "Roboto", sans-serif;
+color: #434455;
+background-color: #FFFFFF;
+}
+
+.web {
+color:#2e2f42;
+}
+
+.studio {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.studio:hover {
+color: #404bbf;
+}
+
+.studio:focus  {
+color: #404bbf;
+}
+
+.addresss {
+font-style: normal;
+}
+
+.address {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.address:hover {
+    color: #404bbf;
+}
+
+.address:focus {
+    color: #404bbf;
+}
+
+.navigation { 
+
+}
+
+.heychref-logo {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+
+.heychref-logo:hover {
+    color: #404bbf;
+}
+
+.heychref-logo:focus {
+    color: #404bbf;
+}
+
+.portfolio {
+    background-color: #2E2F42;
+}
+
+.text-color{
+    color: white;
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.service {
+    background-color: #4D5AE5;
+    font-family: Roboto, sans-serif;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: white;
+    cursor: pointer;
+}
+
+.service:hover {
+   background-color: #404bbf;
+}
+
+.service:focus {
+background-color: #404bbf;
+}
+
+.strategy {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.nperevahy {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.lowincomehousingenviroment {
+background-color: #F4F4FD;
+}
+
+.bgc{
+background-color: #FFFFFF;
+}
+
+.timarakov {
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;
+
+}
+
+.names {
+background-color: #FFFFFF;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.position {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.titleii {
+    font-size: 36px;
+    line-height: 1.11px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.titlei {
+font-size: 36px;
+line-height: 1.11px;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
+color: #2e2f42;
+}
+.appso {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.apps {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.feet {
+background-color: #2e2f42;
+}
+
+.webstudio-nine {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+
+}
+
+.web-two {
+color: #f4f4fd;
+}
+
+.flow {
+line-height: 1.5;
+color: #F4F4FD;
+letter-spacing: 0.02em;
+}
